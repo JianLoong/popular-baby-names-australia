@@ -17,8 +17,6 @@ class Name:
 
 
 def process(file_path, year):
-    # page = reader.pages[page_number]
-    # text = page.extract_text()
     names = []
 
     with open(file_path, newline='') as csvfile:
@@ -28,22 +26,19 @@ def process(file_path, year):
         for columns in rows:
 
             if columns[0] != "":
-                name = Name(position, columns[0], int(
-                    columns[1]), "FEMALE", year)
+                name = Name(
+                    int(columns[2].replace('"', "").replace('=',"")), 
+                    columns[0].replace('"', ""), 
+                    int(columns[1].replace('"', "").replace('=',"")), 
+                    "MALE", year)
                 names.append(name)
 
-            if columns[3] != "":
-                name = Name(position, columns[2], int(
-                    columns[3]), "MALE", year)
-                names.append(name)
+            # position = position + 1
 
-            position = position + 1
-
-    with open(str(year) + ".json", "w") as outfile:
+    with open(str(year) + "male.json", "w") as outfile:
         outfile.write(jsonpickle.encode(names, unpicklable=False, indent=4))
 
 
-file_path = 'C:\\Users\\Jian\\Desktop\\popular-baby-names-victoria\\raw\\qld\\20180123_bdm_top-100-baby-names-2017.csv'
-
-year = 2017
+file_path = 'C:\\Users\\Jian\\Desktop\\popular-baby-names-victoria\\raw\\sa\\male_cy2018_top100.csv'
+year = 2018
 process(file_path, year)
