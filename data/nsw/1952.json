@@ -1,0 +1,1402 @@
+[
+    {
+        "position": 1,
+        "name": "John",
+        "count": 2205,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 1,
+        "name": "Christine",
+        "count": 1346,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 51,
+        "name": "Andrew",
+        "count": 172,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 51,
+        "name": "Deborah",
+        "count": 171,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 2,
+        "name": "Peter",
+        "count": 1903,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 2,
+        "name": "Susan",
+        "count": 1170,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 52,
+        "name": "Malcolm",
+        "count": 166,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 52,
+        "name": "Ruth",
+        "count": 163,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 3,
+        "name": "Robert",
+        "count": 1787,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 3,
+        "name": "Margaret",
+        "count": 1112,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 53,
+        "name": "Terence",
+        "count": 163,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 53,
+        "name": "Pauline",
+        "count": 160,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 4,
+        "name": "Stephen",
+        "count": 1485,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 4,
+        "name": "Judith",
+        "count": 825,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 54,
+        "name": "Terrence",
+        "count": 158,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 54,
+        "name": "Kerrie",
+        "count": 157,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 5,
+        "name": "David",
+        "count": 1340,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 5,
+        "name": "Jennifer",
+        "count": 823,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 55,
+        "name": "Neville",
+        "count": 156,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 55,
+        "name": "Kathryn",
+        "count": 156,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 6,
+        "name": "Michael",
+        "count": 1222,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 6,
+        "name": "Lynette",
+        "count": 756,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 56,
+        "name": "Noel",
+        "count": 156,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 56,
+        "name": "Rosemary",
+        "count": 155,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 7,
+        "name": "Paul",
+        "count": 1046,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 7,
+        "name": "Robyn",
+        "count": 747,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 57,
+        "name": "Charles",
+        "count": 146,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 57,
+        "name": "Jeanette",
+        "count": 152,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 8,
+        "name": "Gary",
+        "count": 834,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 8,
+        "name": "Patricia",
+        "count": 739,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 58,
+        "name": "Gordon",
+        "count": 146,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 58,
+        "name": "Yvonne",
+        "count": 151,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 9,
+        "name": "Gregory",
+        "count": 811,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 9,
+        "name": "Helen",
+        "count": 648,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 59,
+        "name": "Patrick",
+        "count": 141,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 59,
+        "name": "Leonie",
+        "count": 148,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 10,
+        "name": "Ian",
+        "count": 748,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 10,
+        "name": "Elizabeth",
+        "count": 612,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 60,
+        "name": "Terry",
+        "count": 129,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 60,
+        "name": "Marie",
+        "count": 147,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 11,
+        "name": "Christopher",
+        "count": 718,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 11,
+        "name": "Cheryl",
+        "count": 601,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 61,
+        "name": "Timothy",
+        "count": 128,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 61,
+        "name": "Irene",
+        "count": 139,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 12,
+        "name": "William",
+        "count": 645,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 12,
+        "name": "Julie",
+        "count": 543,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 62,
+        "name": "Joseph",
+        "count": 122,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 62,
+        "name": "Jill",
+        "count": 138,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 13,
+        "name": "Brian",
+        "count": 624,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 13,
+        "name": "Anne",
+        "count": 497,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 63,
+        "name": "Norman",
+        "count": 116,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 63,
+        "name": "Jan",
+        "count": 130,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 14,
+        "name": "Phillip",
+        "count": 596,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 14,
+        "name": "Dianne",
+        "count": 457,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 64,
+        "name": "Roger",
+        "count": 113,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 64,
+        "name": "Frances",
+        "count": 129,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 15,
+        "name": "Geoffrey",
+        "count": 586,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 15,
+        "name": "Gail",
+        "count": 454,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 65,
+        "name": "Denis",
+        "count": 112,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 65,
+        "name": "Narelle",
+        "count": 127,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 16,
+        "name": "Kenneth",
+        "count": 548,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 16,
+        "name": "Wendy",
+        "count": 452,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 66,
+        "name": "Lindsay",
+        "count": 111,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 66,
+        "name": "Janette",
+        "count": 126,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 17,
+        "name": "Raymond",
+        "count": 525,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 17,
+        "name": "Sandra",
+        "count": 448,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 67,
+        "name": "Arthur",
+        "count": 106,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 67,
+        "name": "Joan",
+        "count": 125,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 18,
+        "name": "Anthony",
+        "count": 520,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 18,
+        "name": "Barbara",
+        "count": 434,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 68,
+        "name": "Frederick",
+        "count": 104,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 68,
+        "name": "Joy",
+        "count": 125,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 19,
+        "name": "Garry",
+        "count": 512,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 19,
+        "name": "Mary",
+        "count": 433,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 69,
+        "name": "Larry",
+        "count": 102,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 69,
+        "name": "Susanne",
+        "count": 123,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 20,
+        "name": "Graham",
+        "count": 512,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 20,
+        "name": "Pamela",
+        "count": 417,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 70,
+        "name": "Eric",
+        "count": 99,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 70,
+        "name": "Jane",
+        "count": 121,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 21,
+        "name": "James",
+        "count": 511,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 21,
+        "name": "Diane",
+        "count": 412,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 71,
+        "name": "Maxwell",
+        "count": 99,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 71,
+        "name": "Elaine",
+        "count": 120,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 22,
+        "name": "Colin",
+        "count": 508,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 22,
+        "name": "Rhonda",
+        "count": 412,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 72,
+        "name": "Kerry",
+        "count": 96,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 72,
+        "name": "Maree",
+        "count": 118,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 23,
+        "name": "Bruce",
+        "count": 504,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 23,
+        "name": "Kerry",
+        "count": 388,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 73,
+        "name": "Leonard",
+        "count": 94,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 73,
+        "name": "Louise",
+        "count": 116,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 24,
+        "name": "Ronald",
+        "count": 495,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 24,
+        "name": "Denise",
+        "count": 381,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 74,
+        "name": "Francis",
+        "count": 91,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 74,
+        "name": "Bronwyn",
+        "count": 115,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 25,
+        "name": "Richard",
+        "count": 494,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 25,
+        "name": "Suzanne",
+        "count": 375,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 75,
+        "name": "Warwick",
+        "count": 91,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 75,
+        "name": "Jacqueline",
+        "count": 99,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 26,
+        "name": "Kevin",
+        "count": 480,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 26,
+        "name": "Carol",
+        "count": 362,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 76,
+        "name": "Stuart",
+        "count": 90,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 76,
+        "name": "Alison",
+        "count": 98,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 27,
+        "name": "Mark",
+        "count": 475,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 27,
+        "name": "Lorraine",
+        "count": 360,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 77,
+        "name": "Lawrence",
+        "count": 89,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 77,
+        "name": "Joanne",
+        "count": 94,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 28,
+        "name": "Alan",
+        "count": 474,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 28,
+        "name": "Marilyn",
+        "count": 336,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 78,
+        "name": "Desmond",
+        "count": 87,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 78,
+        "name": "Michele",
+        "count": 91,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 29,
+        "name": "Wayne",
+        "count": 423,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 29,
+        "name": "Kathleen",
+        "count": 329,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 79,
+        "name": "Allen",
+        "count": 84,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 79,
+        "name": "Dorothy",
+        "count": 90,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 30,
+        "name": "Barry",
+        "count": 395,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 30,
+        "name": "Linda",
+        "count": 301,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 80,
+        "name": "Alexander",
+        "count": 82,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 80,
+        "name": "Gayle",
+        "count": 90,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 31,
+        "name": "Allan",
+        "count": 372,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 31,
+        "name": "Maureen",
+        "count": 294,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 81,
+        "name": "Grahame",
+        "count": 79,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 81,
+        "name": "Robin",
+        "count": 89,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 32,
+        "name": "Philip",
+        "count": 358,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 32,
+        "name": "Janice",
+        "count": 291,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 82,
+        "name": "Martin",
+        "count": 79,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 82,
+        "name": "Valerie",
+        "count": 89,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 33,
+        "name": "Graeme",
+        "count": 332,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 33,
+        "name": "Catherine",
+        "count": 286,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 83,
+        "name": "Daniel",
+        "count": 78,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 83,
+        "name": "June",
+        "count": 88,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 34,
+        "name": "Dennis",
+        "count": 328,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 34,
+        "name": "Lesley",
+        "count": 271,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 84,
+        "name": "Bernard",
+        "count": 75,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 84,
+        "name": "Penelope",
+        "count": 87,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 35,
+        "name": "Trevor",
+        "count": 296,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 35,
+        "name": "Karen",
+        "count": 263,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 85,
+        "name": "Frank",
+        "count": 73,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 85,
+        "name": "Carmel",
+        "count": 86,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 36,
+        "name": "Ross",
+        "count": 291,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 36,
+        "name": "Janet",
+        "count": 255,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 86,
+        "name": "Laurence",
+        "count": 70,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 86,
+        "name": "Gloria",
+        "count": 85,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 37,
+        "name": "Leslie",
+        "count": 286,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 37,
+        "name": "Ann",
+        "count": 254,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 87,
+        "name": "Adrian",
+        "count": 68,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 87,
+        "name": "Jillian",
+        "count": 84,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 38,
+        "name": "Rodney",
+        "count": 266,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 38,
+        "name": "Vicki",
+        "count": 252,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 88,
+        "name": "Harold",
+        "count": 66,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 88,
+        "name": "Marion",
+        "count": 84,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 39,
+        "name": "Jeffrey",
+        "count": 259,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 39,
+        "name": "Kay",
+        "count": 247,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 89,
+        "name": "Jeffery",
+        "count": 66,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 89,
+        "name": "Diana",
+        "count": 81,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 40,
+        "name": "Keith",
+        "count": 244,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 40,
+        "name": "Carolyn",
+        "count": 246,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 90,
+        "name": "Darryl",
+        "count": 65,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 90,
+        "name": "Lynn",
+        "count": 79,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 41,
+        "name": "Steven",
+        "count": 234,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 41,
+        "name": "Colleen",
+        "count": 243,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 91,
+        "name": "Reginald",
+        "count": 63,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 91,
+        "name": "Virginia",
+        "count": 77,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 42,
+        "name": "Neil",
+        "count": 233,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 42,
+        "name": "Beverley",
+        "count": 235,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 92,
+        "name": "Glen",
+        "count": 61,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 92,
+        "name": "Paula",
+        "count": 76,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 43,
+        "name": "Warren",
+        "count": 221,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 43,
+        "name": "Annette",
+        "count": 234,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 93,
+        "name": "Kim",
+        "count": 61,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 93,
+        "name": "Sally",
+        "count": 74,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 44,
+        "name": "Thomas",
+        "count": 220,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 44,
+        "name": "Roslyn",
+        "count": 203,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 94,
+        "name": "Vincent",
+        "count": 60,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 94,
+        "name": "Kaye",
+        "count": 72,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 45,
+        "name": "Donald",
+        "count": 218,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 45,
+        "name": "Heather",
+        "count": 199,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 95,
+        "name": "Stanley",
+        "count": 59,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 95,
+        "name": "Michelle",
+        "count": 72,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 46,
+        "name": "George",
+        "count": 200,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 46,
+        "name": "Maria",
+        "count": 199,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 96,
+        "name": "Tony",
+        "count": 58,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 96,
+        "name": "Brenda",
+        "count": 70,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 47,
+        "name": "Douglas",
+        "count": 198,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 47,
+        "name": "Sharon",
+        "count": 185,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 97,
+        "name": "Victor",
+        "count": 57,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 97,
+        "name": "Fay",
+        "count": 67,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 48,
+        "name": "Edward",
+        "count": 197,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 48,
+        "name": "Shirley",
+        "count": 178,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 98,
+        "name": "Maurice",
+        "count": 56,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 98,
+        "name": "Kim",
+        "count": 67,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 49,
+        "name": "Russell",
+        "count": 189,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 49,
+        "name": "Lynne",
+        "count": 177,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 99,
+        "name": "Darrell",
+        "count": 54,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 99,
+        "name": "Sue",
+        "count": 66,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 50,
+        "name": "Glenn",
+        "count": 176,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 50,
+        "name": "Glenda",
+        "count": 176,
+        "sex": "FEMALE",
+        "year": 1952
+    },
+    {
+        "position": 100,
+        "name": "Daryl",
+        "count": 54,
+        "sex": "MALE",
+        "year": 1952
+    },
+    {
+        "position": 100,
+        "name": "Jean",
+        "count": 65,
+        "sex": "FEMALE",
+        "year": 1952
+    }
+]

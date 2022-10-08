@@ -1,0 +1,1402 @@
+[
+    {
+        "position": 1,
+        "name": "David",
+        "count": 2032,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 1,
+        "name": "Karen",
+        "count": 1109,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 51,
+        "name": "Glen",
+        "count": 181,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 51,
+        "name": "Cheryl",
+        "count": 184,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 2,
+        "name": "Michael",
+        "count": 1729,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 2,
+        "name": "Lisa",
+        "count": 1058,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 52,
+        "name": "Nicholas",
+        "count": 179,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 52,
+        "name": "Megan",
+        "count": 182,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 3,
+        "name": "Mark",
+        "count": 1476,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 3,
+        "name": "Michelle",
+        "count": 1049,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 53,
+        "name": "Bruce",
+        "count": 178,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 53,
+        "name": "Melinda",
+        "count": 182,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 4,
+        "name": "Paul",
+        "count": 1439,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 4,
+        "name": "Sharon",
+        "count": 809,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 54,
+        "name": "Patrick",
+        "count": 178,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 54,
+        "name": "Kerry",
+        "count": 180,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 5,
+        "name": "Peter",
+        "count": 1407,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 5,
+        "name": "Jennifer",
+        "count": 682,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 55,
+        "name": "Graham",
+        "count": 168,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 55,
+        "name": "Margaret",
+        "count": 180,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 6,
+        "name": "Andrew",
+        "count": 1266,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 6,
+        "name": "Leanne",
+        "count": 612,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 56,
+        "name": "Tony",
+        "count": 164,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 56,
+        "name": "Anna",
+        "count": 166,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 7,
+        "name": "John",
+        "count": 1221,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 7,
+        "name": "Donna",
+        "count": 611,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 57,
+        "name": "Gavin",
+        "count": 156,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 57,
+        "name": "Debra",
+        "count": 166,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 8,
+        "name": "Anthony",
+        "count": 993,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 8,
+        "name": "Susan",
+        "count": 544,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 58,
+        "name": "Raymond",
+        "count": 156,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 58,
+        "name": "Annette",
+        "count": 161,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 9,
+        "name": "Craig",
+        "count": 950,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 9,
+        "name": "Catherine",
+        "count": 523,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 59,
+        "name": "Ronald",
+        "count": 149,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 59,
+        "name": "Katherine",
+        "count": 160,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 10,
+        "name": "Robert",
+        "count": 948,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 10,
+        "name": "Kim",
+        "count": 521,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 60,
+        "name": "Neil",
+        "count": 143,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 60,
+        "name": "Kathleen",
+        "count": 152,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 11,
+        "name": "Stephen",
+        "count": 911,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 11,
+        "name": "Julie",
+        "count": 512,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 61,
+        "name": "Garry",
+        "count": 140,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 61,
+        "name": "Rebecca",
+        "count": 152,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 12,
+        "name": "Scott",
+        "count": 875,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 12,
+        "name": "Joanne",
+        "count": 504,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 62,
+        "name": "Alan",
+        "count": 136,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 62,
+        "name": "Lynette",
+        "count": 142,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 13,
+        "name": "Darren",
+        "count": 864,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 13,
+        "name": "Nicole",
+        "count": 463,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 63,
+        "name": "Graeme",
+        "count": 131,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 63,
+        "name": "Janelle",
+        "count": 139,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 14,
+        "name": "Matthew",
+        "count": 761,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 14,
+        "name": "Tracey",
+        "count": 453,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 64,
+        "name": "Ross",
+        "count": 130,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 64,
+        "name": "Dianne",
+        "count": 136,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 15,
+        "name": "Christopher",
+        "count": 738,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 15,
+        "name": "Elizabeth",
+        "count": 424,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 65,
+        "name": "Allan",
+        "count": 129,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 65,
+        "name": "Paula",
+        "count": 134,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 16,
+        "name": "Steven",
+        "count": 659,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 16,
+        "name": "Maria",
+        "count": 412,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 66,
+        "name": "Shaun",
+        "count": 127,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 66,
+        "name": "Narelle",
+        "count": 132,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 17,
+        "name": "Gregory",
+        "count": 594,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 17,
+        "name": "Fiona",
+        "count": 397,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 67,
+        "name": "Barry",
+        "count": 122,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 67,
+        "name": "Simone",
+        "count": 132,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 18,
+        "name": "Richard",
+        "count": 502,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 18,
+        "name": "Linda",
+        "count": 395,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 68,
+        "name": "Trevor",
+        "count": 122,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 68,
+        "name": "Debbie",
+        "count": 126,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 19,
+        "name": "Wayne",
+        "count": 494,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 19,
+        "name": "Jacqueline",
+        "count": 379,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 69,
+        "name": "Kenneth",
+        "count": 121,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 69,
+        "name": "Maree",
+        "count": 126,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 20,
+        "name": "James",
+        "count": 491,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 20,
+        "name": "Helen",
+        "count": 356,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 70,
+        "name": "Malcolm",
+        "count": 119,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 70,
+        "name": "Sarah",
+        "count": 126,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 21,
+        "name": "Brett",
+        "count": 487,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 21,
+        "name": "Melissa",
+        "count": 350,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 71,
+        "name": "Justin",
+        "count": 118,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 71,
+        "name": "Kellie",
+        "count": 125,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 22,
+        "name": "Rodney",
+        "count": 420,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 22,
+        "name": "Sandra",
+        "count": 349,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 72,
+        "name": "Adrian",
+        "count": 112,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 72,
+        "name": "Danielle",
+        "count": 124,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 23,
+        "name": "Ian",
+        "count": 412,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 23,
+        "name": "Deborah",
+        "count": 337,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 73,
+        "name": "Russell",
+        "count": 105,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 73,
+        "name": "Toni",
+        "count": 123,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 24,
+        "name": "Jason",
+        "count": 402,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 24,
+        "name": "Christine",
+        "count": 329,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 74,
+        "name": "Todd",
+        "count": 103,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 74,
+        "name": "Bronwyn",
+        "count": 122,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 25,
+        "name": "Timothy",
+        "count": 376,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 25,
+        "name": "Jodie",
+        "count": 312,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 75,
+        "name": "Jamie",
+        "count": 100,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 75,
+        "name": "Rachel",
+        "count": 120,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 26,
+        "name": "Dean",
+        "count": 360,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 26,
+        "name": "Amanda",
+        "count": 300,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 76,
+        "name": "Thomas",
+        "count": 92,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 76,
+        "name": "Sally",
+        "count": 120,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 27,
+        "name": "Adam",
+        "count": 356,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 27,
+        "name": "Tracy",
+        "count": 294,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 77,
+        "name": "Douglas",
+        "count": 86,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 77,
+        "name": "Michele",
+        "count": 119,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 28,
+        "name": "Simon",
+        "count": 337,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 28,
+        "name": "Suzanne",
+        "count": 286,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 78,
+        "name": "Edward",
+        "count": 86,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 78,
+        "name": "Judith",
+        "count": 117,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 29,
+        "name": "Unnamed",
+        "count": 315,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 29,
+        "name": "Angela",
+        "count": 282,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 79,
+        "name": "Nigel",
+        "count": 86,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 79,
+        "name": "Leonie",
+        "count": 111,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 30,
+        "name": "Shane",
+        "count": 309,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 30,
+        "name": "Louise",
+        "count": 282,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 80,
+        "name": "Mathew",
+        "count": 85,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 80,
+        "name": "Caroline",
+        "count": 107,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 31,
+        "name": "Stuart",
+        "count": 297,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 31,
+        "name": "Kylie",
+        "count": 278,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 81,
+        "name": "Benjamin",
+        "count": 81,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 81,
+        "name": "Penelope",
+        "count": 106,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 32,
+        "name": "Sean",
+        "count": 295,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 32,
+        "name": "Alison",
+        "count": 261,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 82,
+        "name": "Murray",
+        "count": 81,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 82,
+        "name": "Allison",
+        "count": 105,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 33,
+        "name": "Gary",
+        "count": 288,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 33,
+        "name": "Wendy",
+        "count": 257,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 83,
+        "name": "Cameron",
+        "count": 80,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 83,
+        "name": "Ann",
+        "count": 105,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 34,
+        "name": "Phillip",
+        "count": 281,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 34,
+        "name": "Jane",
+        "count": 248,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 84,
+        "name": "Brendan",
+        "count": 79,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 84,
+        "name": "Diane",
+        "count": 105,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 35,
+        "name": "Bradley",
+        "count": 280,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 35,
+        "name": "Kathryn",
+        "count": 247,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 85,
+        "name": "Giuseppe",
+        "count": 79,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 85,
+        "name": "Janine",
+        "count": 101,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 36,
+        "name": "Geoffrey",
+        "count": 269,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 36,
+        "name": "Belinda",
+        "count": 245,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 86,
+        "name": "Roger",
+        "count": 78,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 86,
+        "name": "Sonia",
+        "count": 101,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 37,
+        "name": "Grant",
+        "count": 259,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 37,
+        "name": "Tanya",
+        "count": 242,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 87,
+        "name": "Keith",
+        "count": 77,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 87,
+        "name": "Tina",
+        "count": 101,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 38,
+        "name": "William",
+        "count": 257,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 38,
+        "name": "Patricia",
+        "count": 223,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 88,
+        "name": "Alexander",
+        "count": 75,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 88,
+        "name": "Diana",
+        "count": 99,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 39,
+        "name": "Glenn",
+        "count": 248,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 39,
+        "name": "Robyn",
+        "count": 220,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 89,
+        "name": "Jonathan",
+        "count": 74,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 89,
+        "name": "Stephanie",
+        "count": 98,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 40,
+        "name": "Kevin",
+        "count": 246,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 40,
+        "name": "Carolyn",
+        "count": 209,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 90,
+        "name": "Luke",
+        "count": 74,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 90,
+        "name": "Carol",
+        "count": 97,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 41,
+        "name": "Daniel",
+        "count": 240,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 41,
+        "name": "Mary",
+        "count": 205,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 91,
+        "name": "Terry",
+        "count": 74,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 91,
+        "name": "Denise",
+        "count": 97,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 42,
+        "name": "Brian",
+        "count": 227,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 42,
+        "name": "Kerrie",
+        "count": 204,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 92,
+        "name": "Dale",
+        "count": 72,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 92,
+        "name": "Teresa",
+        "count": 91,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 43,
+        "name": "Jeffrey",
+        "count": 217,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 43,
+        "name": "Vicki",
+        "count": 201,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 93,
+        "name": "Darrin",
+        "count": 72,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 93,
+        "name": "Heather",
+        "count": 90,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 44,
+        "name": "Martin",
+        "count": 210,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 44,
+        "name": "Kelly",
+        "count": 200,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 94,
+        "name": "Ricky",
+        "count": 70,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 94,
+        "name": "Rhonda",
+        "count": 90,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 45,
+        "name": "George",
+        "count": 209,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 45,
+        "name": "Vanessa",
+        "count": 199,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 95,
+        "name": "Antonio",
+        "count": 69,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 95,
+        "name": "Leah",
+        "count": 88,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 46,
+        "name": "Troy",
+        "count": 208,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 46,
+        "name": "Natalie",
+        "count": 198,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 96,
+        "name": "Dennis",
+        "count": 68,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 96,
+        "name": "Lynda",
+        "count": 88,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 47,
+        "name": "Warren",
+        "count": 207,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 47,
+        "name": "Anne",
+        "count": 197,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 97,
+        "name": "Charles",
+        "count": 67,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 97,
+        "name": "Jodi",
+        "count": 87,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 48,
+        "name": "Colin",
+        "count": 202,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 48,
+        "name": "Tania",
+        "count": 193,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 98,
+        "name": "Lee",
+        "count": 67,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 98,
+        "name": "Therese",
+        "count": 86,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 49,
+        "name": "Philip",
+        "count": 196,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 49,
+        "name": "Samantha",
+        "count": 187,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 99,
+        "name": "Leslie",
+        "count": 67,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 99,
+        "name": "Ruth",
+        "count": 81,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 50,
+        "name": "Joseph",
+        "count": 188,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 50,
+        "name": "Katrina",
+        "count": 185,
+        "sex": "FEMALE",
+        "year": 1968
+    },
+    {
+        "position": 100,
+        "name": "Warwick",
+        "count": 66,
+        "sex": "MALE",
+        "year": 1968
+    },
+    {
+        "position": 100,
+        "name": "Sonya",
+        "count": 81,
+        "sex": "FEMALE",
+        "year": 1968
+    }
+]

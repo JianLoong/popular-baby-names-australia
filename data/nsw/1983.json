@@ -1,0 +1,1402 @@
+[
+    {
+        "position": 1,
+        "name": "Michael",
+        "count": 1438,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 1,
+        "name": "Rebecca",
+        "count": 930,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 51,
+        "name": "Cameron",
+        "count": 174,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 51,
+        "name": "Kimberley",
+        "count": 157,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 2,
+        "name": "Matthew",
+        "count": 1363,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 2,
+        "name": "Sarah",
+        "count": 913,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 52,
+        "name": "Shaun",
+        "count": 174,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 52,
+        "name": "Carly",
+        "count": 151,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 3,
+        "name": "Christopher",
+        "count": 1299,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 3,
+        "name": "Jessica",
+        "count": 846,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 53,
+        "name": "Patrick",
+        "count": 172,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 53,
+        "name": "Karen",
+        "count": 149,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 4,
+        "name": "Daniel",
+        "count": 1211,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 4,
+        "name": "Melissa",
+        "count": 737,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 54,
+        "name": "Sean",
+        "count": 166,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 54,
+        "name": "Tanya",
+        "count": 148,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 5,
+        "name": "David",
+        "count": 1160,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 5,
+        "name": "Amanda",
+        "count": 683,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 55,
+        "name": "Ben",
+        "count": 164,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 55,
+        "name": "Sally",
+        "count": 147,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 6,
+        "name": "Andrew",
+        "count": 1026,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 6,
+        "name": "Nicole",
+        "count": 574,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 56,
+        "name": "Ian",
+        "count": 148,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 56,
+        "name": "Alexandra",
+        "count": 145,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 7,
+        "name": "Benjamin",
+        "count": 965,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 7,
+        "name": "Amy",
+        "count": 552,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 57,
+        "name": "Jamie",
+        "count": 145,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 57,
+        "name": "Rachael",
+        "count": 140,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 8,
+        "name": "Adam",
+        "count": 951,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 8,
+        "name": "Michelle",
+        "count": 542,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 58,
+        "name": "Blake",
+        "count": 144,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 58,
+        "name": "Leanne",
+        "count": 137,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 9,
+        "name": "Luke",
+        "count": 896,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 9,
+        "name": "Lauren",
+        "count": 525,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 59,
+        "name": "Todd",
+        "count": 137,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 59,
+        "name": "Crystal",
+        "count": 132,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 10,
+        "name": "James",
+        "count": 839,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 10,
+        "name": "Emma",
+        "count": 486,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 60,
+        "name": "George",
+        "count": 133,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 60,
+        "name": "Naomi",
+        "count": 129,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 11,
+        "name": "Joshua",
+        "count": 757,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 11,
+        "name": "Lisa",
+        "count": 485,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 61,
+        "name": "Damien",
+        "count": 131,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 61,
+        "name": "Tara",
+        "count": 126,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 12,
+        "name": "Nathan",
+        "count": 714,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 12,
+        "name": "Erin",
+        "count": 455,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 62,
+        "name": "Trent",
+        "count": 130,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 62,
+        "name": "Claire",
+        "count": 125,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 13,
+        "name": "Peter",
+        "count": 671,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 13,
+        "name": "Natalie",
+        "count": 422,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 63,
+        "name": "Stuart",
+        "count": 127,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 63,
+        "name": "Bianca",
+        "count": 123,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 14,
+        "name": "Timothy",
+        "count": 666,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 14,
+        "name": "Kylie",
+        "count": 413,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 64,
+        "name": "Jacob",
+        "count": 123,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 64,
+        "name": "Amber",
+        "count": 122,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 15,
+        "name": "Mark",
+        "count": 614,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 15,
+        "name": "Kate",
+        "count": 408,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 65,
+        "name": "Wayne",
+        "count": 123,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 65,
+        "name": "Linda",
+        "count": 121,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 16,
+        "name": "Robert",
+        "count": 610,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 16,
+        "name": "Belinda",
+        "count": 382,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 66,
+        "name": "Dane",
+        "count": 120,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 66,
+        "name": "Kim",
+        "count": 119,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 17,
+        "name": "Scott",
+        "count": 575,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 17,
+        "name": "Elizabeth",
+        "count": 354,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 67,
+        "name": "Shannon",
+        "count": 116,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 67,
+        "name": "Casey",
+        "count": 118,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 18,
+        "name": "Nicholas",
+        "count": 570,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 18,
+        "name": "Kristy",
+        "count": 352,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 68,
+        "name": "Ashley",
+        "count": 115,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 68,
+        "name": "Alana",
+        "count": 117,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 19,
+        "name": "John",
+        "count": 568,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 19,
+        "name": "Jennifer",
+        "count": 347,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 69,
+        "name": "Philip",
+        "count": 111,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 69,
+        "name": "Krystal",
+        "count": 117,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 20,
+        "name": "Paul",
+        "count": 529,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 20,
+        "name": "Angela",
+        "count": 325,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 70,
+        "name": "Glen",
+        "count": 110,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 70,
+        "name": "Holly",
+        "count": 115,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 21,
+        "name": "Jason",
+        "count": 526,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 21,
+        "name": "Kelly",
+        "count": 313,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 71,
+        "name": "Darren",
+        "count": 109,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 71,
+        "name": "Julie",
+        "count": 113,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 22,
+        "name": "Steven",
+        "count": 471,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 22,
+        "name": "Renee",
+        "count": 310,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 72,
+        "name": "Brent",
+        "count": 108,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 72,
+        "name": "Fiona",
+        "count": 110,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 23,
+        "name": "Aaron",
+        "count": 462,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 23,
+        "name": "Rachel",
+        "count": 300,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 73,
+        "name": "Jay",
+        "count": 107,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 73,
+        "name": "Sara",
+        "count": 109,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 24,
+        "name": "Anthony",
+        "count": 442,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 24,
+        "name": "Laura",
+        "count": 293,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 74,
+        "name": "Jonathon",
+        "count": 107,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 74,
+        "name": "Simone",
+        "count": 108,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 25,
+        "name": "Ryan",
+        "count": 439,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 25,
+        "name": "Danielle",
+        "count": 265,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 75,
+        "name": "Martin",
+        "count": 107,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 75,
+        "name": "Melinda",
+        "count": 105,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 26,
+        "name": "Shane",
+        "count": 378,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 26,
+        "name": "Samantha",
+        "count": 253,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 76,
+        "name": "Kevin",
+        "count": 106,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 76,
+        "name": "Christine",
+        "count": 103,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 27,
+        "name": "Stephen",
+        "count": 376,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 27,
+        "name": "Alison",
+        "count": 249,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 77,
+        "name": "Gavin",
+        "count": 104,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 77,
+        "name": "Clare",
+        "count": 103,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 28,
+        "name": "Mitchell",
+        "count": 366,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 28,
+        "name": "Melanie",
+        "count": 241,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 78,
+        "name": "Lee",
+        "count": 104,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 78,
+        "name": "Candice",
+        "count": 99,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 29,
+        "name": "Brendan",
+        "count": 365,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 29,
+        "name": "Hayley",
+        "count": 235,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 79,
+        "name": "Brendon",
+        "count": 103,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 79,
+        "name": "Kellie",
+        "count": 98,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 30,
+        "name": "Bradley",
+        "count": 362,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 30,
+        "name": "Katherine",
+        "count": 235,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 80,
+        "name": "Clinton",
+        "count": 102,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 80,
+        "name": "Julia",
+        "count": 97,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 31,
+        "name": "Simon",
+        "count": 343,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 31,
+        "name": "Megan",
+        "count": 231,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 81,
+        "name": "Glenn",
+        "count": 98,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 81,
+        "name": "Jane",
+        "count": 93,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 32,
+        "name": "Mathew",
+        "count": 321,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 32,
+        "name": "Katie",
+        "count": 230,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 82,
+        "name": "Edward",
+        "count": 93,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 82,
+        "name": "Susan",
+        "count": 93,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 33,
+        "name": "Thomas",
+        "count": 286,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 33,
+        "name": "Emily",
+        "count": 225,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 83,
+        "name": "Jeffrey",
+        "count": 89,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 83,
+        "name": "Zoe",
+        "count": 92,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 34,
+        "name": "Brett",
+        "count": 268,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 34,
+        "name": "Alicia",
+        "count": 221,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 84,
+        "name": "Dylan",
+        "count": 86,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 84,
+        "name": "Kristie",
+        "count": 91,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 35,
+        "name": "Craig",
+        "count": 253,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 35,
+        "name": "Louise",
+        "count": 216,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 85,
+        "name": "Gary",
+        "count": 85,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 85,
+        "name": "Tracey",
+        "count": 89,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 36,
+        "name": "William",
+        "count": 243,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 36,
+        "name": "Cassandra",
+        "count": 210,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 86,
+        "name": "Ross",
+        "count": 85,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 86,
+        "name": "Anita",
+        "count": 88,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 37,
+        "name": "Alexander",
+        "count": 241,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 37,
+        "name": "Brooke",
+        "count": 204,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 87,
+        "name": "Rodney",
+        "count": 84,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 87,
+        "name": "Tamara",
+        "count": 88,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 38,
+        "name": "Justin",
+        "count": 239,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 38,
+        "name": "Katrina",
+        "count": 195,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 88,
+        "name": "Lachlan",
+        "count": 83,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 88,
+        "name": "Shannon",
+        "count": 87,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 39,
+        "name": "Joel",
+        "count": 235,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 39,
+        "name": "Catherine",
+        "count": 192,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 89,
+        "name": "Liam",
+        "count": 83,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 89,
+        "name": "Skye",
+        "count": 86,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 40,
+        "name": "Adrian",
+        "count": 216,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 40,
+        "name": "Anna",
+        "count": 191,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 90,
+        "name": "Colin",
+        "count": 81,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 90,
+        "name": "Aimee",
+        "count": 83,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 41,
+        "name": "Jonathan",
+        "count": 202,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 41,
+        "name": "Stephanie",
+        "count": 190,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 91,
+        "name": "Dale",
+        "count": 80,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 91,
+        "name": "Heather",
+        "count": 82,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 42,
+        "name": "Richard",
+        "count": 197,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 42,
+        "name": "Vanessa",
+        "count": 187,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 92,
+        "name": "Leigh",
+        "count": 79,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 92,
+        "name": "Olivia",
+        "count": 82,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 43,
+        "name": "Troy",
+        "count": 194,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 43,
+        "name": "Stacey",
+        "count": 181,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 93,
+        "name": "Allan",
+        "count": 78,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 93,
+        "name": "Chantelle",
+        "count": 81,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 44,
+        "name": "Samuel",
+        "count": 192,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 44,
+        "name": "Natasha",
+        "count": 172,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 94,
+        "name": "Chad",
+        "count": 77,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 94,
+        "name": "Heidi",
+        "count": 81,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 45,
+        "name": "Joseph",
+        "count": 188,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 45,
+        "name": "Jade",
+        "count": 170,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 95,
+        "name": "Geoffrey",
+        "count": 77,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 95,
+        "name": "Kristen",
+        "count": 81,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 46,
+        "name": "Grant",
+        "count": 184,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 46,
+        "name": "Jodie",
+        "count": 168,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 96,
+        "name": "Lucas",
+        "count": 77,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 96,
+        "name": "Carla",
+        "count": 80,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 47,
+        "name": "Phillip",
+        "count": 183,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 47,
+        "name": "Leah",
+        "count": 168,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 97,
+        "name": "Russell",
+        "count": 77,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 97,
+        "name": "Peta",
+        "count": 79,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 48,
+        "name": "Jeremy",
+        "count": 181,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 48,
+        "name": "Jacqueline",
+        "count": 161,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 98,
+        "name": "Brian",
+        "count": 75,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 98,
+        "name": "Maria",
+        "count": 78,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 49,
+        "name": "Gregory",
+        "count": 178,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 49,
+        "name": "Joanne",
+        "count": 158,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 99,
+        "name": "Tony",
+        "count": 73,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 99,
+        "name": "Diana",
+        "count": 77,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 50,
+        "name": "Dean",
+        "count": 176,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 50,
+        "name": "Kathryn",
+        "count": 158,
+        "sex": "FEMALE",
+        "year": 1983
+    },
+    {
+        "position": 100,
+        "name": "Alan",
+        "count": 72,
+        "sex": "MALE",
+        "year": 1983
+    },
+    {
+        "position": 100,
+        "name": "Hannah",
+        "count": 77,
+        "sex": "FEMALE",
+        "year": 1983
+    }
+]

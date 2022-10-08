@@ -1,0 +1,1402 @@
+[
+    {
+        "position": 1,
+        "name": "Peter",
+        "count": 2236,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 1,
+        "name": "Jennifer",
+        "count": 1159,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 51,
+        "name": "Thomas",
+        "count": 181,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 51,
+        "name": "Amanda",
+        "count": 196,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 2,
+        "name": "Mark",
+        "count": 1940,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 2,
+        "name": "Susan",
+        "count": 1026,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 52,
+        "name": "Martin",
+        "count": 180,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 52,
+        "name": "Janet",
+        "count": 190,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 3,
+        "name": "David",
+        "count": 1884,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 3,
+        "name": "Julie",
+        "count": 972,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 53,
+        "name": "Stuart",
+        "count": 180,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 53,
+        "name": "Michele",
+        "count": 184,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 4,
+        "name": "Michael",
+        "count": 1721,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 4,
+        "name": "Karen",
+        "count": 857,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 54,
+        "name": "Malcolm",
+        "count": 179,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 54,
+        "name": "Maree",
+        "count": 182,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 5,
+        "name": "John",
+        "count": 1628,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 5,
+        "name": "Deborah",
+        "count": 835,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 55,
+        "name": "Russell",
+        "count": 170,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 55,
+        "name": "Barbara",
+        "count": 179,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 6,
+        "name": "Stephen",
+        "count": 1523,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 6,
+        "name": "Kim",
+        "count": 695,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 56,
+        "name": "Tony",
+        "count": 159,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 56,
+        "name": "Fiona",
+        "count": 178,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 7,
+        "name": "Robert",
+        "count": 1246,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 7,
+        "name": "Debra",
+        "count": 635,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 57,
+        "name": "Glen",
+        "count": 156,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 57,
+        "name": "Lisa",
+        "count": 177,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 8,
+        "name": "Gregory",
+        "count": 1173,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 8,
+        "name": "Sharon",
+        "count": 626,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 58,
+        "name": "Keith",
+        "count": 156,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 58,
+        "name": "Leonie",
+        "count": 163,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 9,
+        "name": "Paul",
+        "count": 1111,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 9,
+        "name": "Christine",
+        "count": 585,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 59,
+        "name": "Donald",
+        "count": 153,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 59,
+        "name": "Tracy",
+        "count": 153,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 10,
+        "name": "Anthony",
+        "count": 948,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 10,
+        "name": "Robyn",
+        "count": 577,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 60,
+        "name": "Douglas",
+        "count": 149,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 60,
+        "name": "Alison",
+        "count": 152,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 11,
+        "name": "Ian",
+        "count": 760,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 11,
+        "name": "Catherine",
+        "count": 529,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 61,
+        "name": "Matthew",
+        "count": 148,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 61,
+        "name": "Heather",
+        "count": 150,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 12,
+        "name": "Wayne",
+        "count": 738,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 12,
+        "name": "Donna",
+        "count": 528,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 62,
+        "name": "Leslie",
+        "count": 147,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 62,
+        "name": "Bronwyn",
+        "count": 145,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 13,
+        "name": "Christopher",
+        "count": 732,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 13,
+        "name": "Margaret",
+        "count": 527,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 63,
+        "name": "Terry",
+        "count": 136,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 63,
+        "name": "Angela",
+        "count": 138,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 14,
+        "name": "Steven",
+        "count": 725,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 14,
+        "name": "Helen",
+        "count": 523,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 64,
+        "name": "Joseph",
+        "count": 133,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 64,
+        "name": "Lynne",
+        "count": 137,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 15,
+        "name": "Craig",
+        "count": 545,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 15,
+        "name": "Sandra",
+        "count": 515,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 65,
+        "name": "Patrick",
+        "count": 131,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 65,
+        "name": "Lesley",
+        "count": 135,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 16,
+        "name": "Richard",
+        "count": 523,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 16,
+        "name": "Vicki",
+        "count": 505,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 66,
+        "name": "Nicholas",
+        "count": 130,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 66,
+        "name": "Lorraine",
+        "count": 131,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 17,
+        "name": "Andrew",
+        "count": 521,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 17,
+        "name": "Elizabeth",
+        "count": 502,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 67,
+        "name": "Darryl",
+        "count": 126,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 67,
+        "name": "Colleen",
+        "count": 130,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 18,
+        "name": "James",
+        "count": 512,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 18,
+        "name": "Wendy",
+        "count": 502,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 68,
+        "name": "Edward",
+        "count": 124,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 68,
+        "name": "Roslyn",
+        "count": 130,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 19,
+        "name": "Brett",
+        "count": 456,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 19,
+        "name": "Michelle",
+        "count": 493,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 69,
+        "name": "Daniel",
+        "count": 118,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 69,
+        "name": "Sally",
+        "count": 130,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 20,
+        "name": "Garry",
+        "count": 436,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 20,
+        "name": "Joanne",
+        "count": 481,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 70,
+        "name": "Dennis",
+        "count": 117,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 70,
+        "name": "Belinda",
+        "count": 124,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 21,
+        "name": "Phillip",
+        "count": 433,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 21,
+        "name": "Cheryl",
+        "count": 445,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 71,
+        "name": "Ricky",
+        "count": 117,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 71,
+        "name": "Rosemary",
+        "count": 124,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 22,
+        "name": "Brian",
+        "count": 428,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 22,
+        "name": "Anne",
+        "count": 421,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 72,
+        "name": "Simon",
+        "count": 114,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 72,
+        "name": "Anna",
+        "count": 121,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 23,
+        "name": "Kevin",
+        "count": 428,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 23,
+        "name": "Lynette",
+        "count": 407,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 73,
+        "name": "Noel",
+        "count": 106,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 73,
+        "name": "Maureen",
+        "count": 121,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 24,
+        "name": "William",
+        "count": 426,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 24,
+        "name": "Linda",
+        "count": 401,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 74,
+        "name": "Terrence",
+        "count": 106,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 74,
+        "name": "Ruth",
+        "count": 119,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 25,
+        "name": "Geoffrey",
+        "count": 422,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 25,
+        "name": "Patricia",
+        "count": 400,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 75,
+        "name": "Charles",
+        "count": 98,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 75,
+        "name": "Jacqueline",
+        "count": 118,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 26,
+        "name": "Gary",
+        "count": 419,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 26,
+        "name": "Kerry",
+        "count": 396,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 76,
+        "name": "Murray",
+        "count": 98,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 76,
+        "name": "Frances",
+        "count": 113,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 27,
+        "name": "Colin",
+        "count": 385,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 27,
+        "name": "Mary",
+        "count": 394,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 77,
+        "name": "Gordon",
+        "count": 97,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 77,
+        "name": "Tanya",
+        "count": 112,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 28,
+        "name": "Rodney",
+        "count": 382,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 28,
+        "name": "Suzanne",
+        "count": 383,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 78,
+        "name": "Eric",
+        "count": 94,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 78,
+        "name": "Katherine",
+        "count": 111,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 29,
+        "name": "Bradley",
+        "count": 370,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 29,
+        "name": "Kerrie",
+        "count": 376,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 79,
+        "name": "Frank",
+        "count": 93,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 79,
+        "name": "Pauline",
+        "count": 108,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 30,
+        "name": "Glenn",
+        "count": 355,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 30,
+        "name": "Tracey",
+        "count": 362,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 80,
+        "name": "Roger",
+        "count": 92,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 80,
+        "name": "Janice",
+        "count": 107,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 31,
+        "name": "Graham",
+        "count": 349,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 31,
+        "name": "Judith",
+        "count": 360,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 81,
+        "name": "Alexander",
+        "count": 91,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 81,
+        "name": "Jeanette",
+        "count": 106,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 32,
+        "name": "Bruce",
+        "count": 324,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 32,
+        "name": "Debbie",
+        "count": 354,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 82,
+        "name": "Neville",
+        "count": 86,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 82,
+        "name": "Toni",
+        "count": 105,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 33,
+        "name": "Kenneth",
+        "count": 315,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 33,
+        "name": "Leanne",
+        "count": 341,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 83,
+        "name": "Darren",
+        "count": 85,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 83,
+        "name": "Yvonne",
+        "count": 103,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 34,
+        "name": "Graeme",
+        "count": 314,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 34,
+        "name": "Louise",
+        "count": 329,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 84,
+        "name": "Dean",
+        "count": 85,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 84,
+        "name": "Beverley",
+        "count": 100,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 35,
+        "name": "Raymond",
+        "count": 310,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 35,
+        "name": "Maria",
+        "count": 318,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 85,
+        "name": "Gerard",
+        "count": 82,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 85,
+        "name": "Janette",
+        "count": 98,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 36,
+        "name": "Allan",
+        "count": 296,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 36,
+        "name": "Annette",
+        "count": 314,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 86,
+        "name": "Bernard",
+        "count": 80,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 86,
+        "name": "Kay",
+        "count": 97,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 37,
+        "name": "Alan",
+        "count": 292,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 37,
+        "name": "Kathryn",
+        "count": 286,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 87,
+        "name": "Dale",
+        "count": 77,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 87,
+        "name": "Jan",
+        "count": 96,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 38,
+        "name": "Jeffrey",
+        "count": 288,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 38,
+        "name": "Kathleen",
+        "count": 277,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 88,
+        "name": "Lindsay",
+        "count": 73,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 88,
+        "name": "Janine",
+        "count": 96,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 39,
+        "name": "Philip",
+        "count": 288,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 39,
+        "name": "Carol",
+        "count": 259,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 89,
+        "name": "Daryl",
+        "count": 72,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 89,
+        "name": "Therese",
+        "count": 96,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 40,
+        "name": "Ronald",
+        "count": 282,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 40,
+        "name": "Diane",
+        "count": 252,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 90,
+        "name": "Francis",
+        "count": 72,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 90,
+        "name": "Jo-Anne",
+        "count": 94,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 41,
+        "name": "Timothy",
+        "count": 280,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 41,
+        "name": "Jane",
+        "count": 249,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 91,
+        "name": "Terence",
+        "count": 72,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 91,
+        "name": "Megan",
+        "count": 94,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 42,
+        "name": "Neil",
+        "count": 279,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 42,
+        "name": "Dianne",
+        "count": 237,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 92,
+        "name": "Adrian",
+        "count": 71,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 92,
+        "name": "Glenda",
+        "count": 92,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 43,
+        "name": "Warren",
+        "count": 257,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 43,
+        "name": "Rhonda",
+        "count": 221,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 93,
+        "name": "Allen",
+        "count": 68,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 93,
+        "name": "Diana",
+        "count": 90,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 44,
+        "name": "Shane",
+        "count": 255,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 44,
+        "name": "Carolyn",
+        "count": 219,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 94,
+        "name": "Grahame",
+        "count": 68,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 94,
+        "name": "Susanne",
+        "count": 87,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 45,
+        "name": "Trevor",
+        "count": 243,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 45,
+        "name": "Gail",
+        "count": 210,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 95,
+        "name": "Danny",
+        "count": 63,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 95,
+        "name": "Victoria",
+        "count": 87,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 46,
+        "name": "Barry",
+        "count": 241,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 46,
+        "name": "Narelle",
+        "count": 210,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 96,
+        "name": "Stewart",
+        "count": 63,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 96,
+        "name": "Cathy",
+        "count": 86,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 47,
+        "name": "Ross",
+        "count": 235,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 47,
+        "name": "Denise",
+        "count": 208,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 97,
+        "name": "Norman",
+        "count": 62,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 97,
+        "name": "Bernadette",
+        "count": 85,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 48,
+        "name": "Grant",
+        "count": 199,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 48,
+        "name": "Pamela",
+        "count": 201,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 98,
+        "name": "Antony",
+        "count": 60,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 98,
+        "name": "Shirley",
+        "count": 85,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 49,
+        "name": "Scott",
+        "count": 199,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 49,
+        "name": "Ann",
+        "count": 200,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 99,
+        "name": "Arthur",
+        "count": 60,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 99,
+        "name": "Carmel",
+        "count": 83,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 50,
+        "name": "George",
+        "count": 190,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 50,
+        "name": "Janelle",
+        "count": 198,
+        "sex": "FEMALE",
+        "year": 1960
+    },
+    {
+        "position": 100,
+        "name": "Guy",
+        "count": 60,
+        "sex": "MALE",
+        "year": 1960
+    },
+    {
+        "position": 100,
+        "name": "Penelope",
+        "count": 76,
+        "sex": "FEMALE",
+        "year": 1960
+    }
+]
