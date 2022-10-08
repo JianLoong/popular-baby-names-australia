@@ -31,9 +31,63 @@ The current base url is [https://jianliew.me/popular-baby-names-australia/](http
 | ----- | ------------------ | ------ | -------------------------------------------------------------------------- |
 | VIC   | /data/vic/all.json | x      | [Test](https://jianliew.me/popular-baby-names-australia/data/vic/all.json) |
 
+*x denotes that the data is complete based on the available open data
 
 # Usage Example
 
 ```bash
+curl https://jianliew.me/popular-baby-names-australia/data/vic/all.json
+```
+
+would result
+
+```json
+[
+    {
+        "position": 1,
+        "name": "William",
+        "count": 551,
+        "sex": "MALE",
+        "year": 2009
+    },
+    {
+        "position": 1,
+        "name": "Olivia",
+        "count": 432,
+        "sex": "FEMALE",
+        "year": 2009
+    },
+    {
+        "position": 2,
+        "name": "Jack",
+        "count": 534,
+        "sex": "MALE",
+        "year": 2009
+    }...
+```
+
+It is also possible to query the specific year
+
+```bash
 curl https://jianliew.me/popular-baby-names-australia/data/vic/2020.json
+```
+
+would return 
+
+```json
+[
+  {
+    "position": 1,
+    "name": "Oliver",
+    "count": 546,
+    "sex": "MALE",
+    "year": 2020
+  },
+  {
+    "position": 1,
+    "name": "Charlotte",
+    "count": 413,
+    "sex": "FEMALE",
+    "year": 2020
+  }....
 ```

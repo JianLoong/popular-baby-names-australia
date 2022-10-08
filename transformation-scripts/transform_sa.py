@@ -39,6 +39,6 @@ def process(file_path, year):
         outfile.write(jsonpickle.encode(names, unpicklable=False, indent=4))
 
 
-file_path = 'C:\\Users\\Jian\\Desktop\\popular-baby-names-victoria\\raw\\sa\\male_cy2018_top100.csv'
-year = 2018
+file_path = 'C:\\Users\\Jian\\Desktop\\popular-baby-names-victoria\\raw\\sa\\male_cy2019_top100.csv'
+year = 2019
 process(file_path, year)
