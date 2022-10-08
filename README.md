@@ -20,6 +20,20 @@ The aim of this API is to provide static information that will be consumed by ot
 | TAS     | https://data.gov.au/dataset/ds-dga-a37db87d-6bbb-4fb1-96a4-224266b757b8/details         |                                                                                           |
 | VIC     | [Data Vic Australia](https://discover.data.vic.gov.au/dataset/popular-baby-names-api  ) | [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
 | NSW     | [Data NSW Australia](https://data.nsw.gov.au/data/dataset/popular-baby-names)           | [Creative Commons Attribution](https://opendefinition.org/licenses/cc-by/)                |
-| SA      | https://data.gov.au/dataset/ds-sa-9849aa7f-e316-426e-8ab5-74658a62c7e6/details          |                                                                                           |
+| SA      | [Data SA Australia](https://data.sa.gov.au/data/dataset/popular-baby-names)             | [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
 
 
+# List of End Points
+
+The current base url is [https://jianliew.me/popular-baby-names-australia/](https://jianliew.me/popular-baby-names-australia/)
+
+| State | End Point          | Status |                                                                            |
+| ----- | ------------------ | ------ | -------------------------------------------------------------------------- |
+| VIC   | /data/vic/all.json | x      | [Test](https://jianliew.me/popular-baby-names-australia/data/vic/all.json) |
+
+
+# Usage Example
+
+```bash
+curl https://jianliew.me/popular-baby-names-australia/data/vic/2020.json
+```
